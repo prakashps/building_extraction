@@ -1,0 +1,3 @@
+## Sample images and masks
+
+Sample images and masks for training the model are available in this folder.
