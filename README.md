@@ -1,6 +1,10 @@
 # Building extraction - A deep learning approach
 A complete deep learning pipeline for deriving building footprints from high-resolution remote sensing imagery.
 
+## Citation
+
+
+Under review: Citation appear here
 
 
 ## Dependencies
@@ -21,7 +25,6 @@ A complete deep learning pipeline for deriving building footprints from high-res
 
 
 
-
 ## Steps:
 
 - Use "Model_training.py" to train the model, that creates image tiles and trained model in .h5 (model.h5) format
@@ -30,8 +33,6 @@ A complete deep learning pipeline for deriving building footprints from high-res
 - Please use "image.tif" and "mask.tif" should be of same dimension. (Ex: Image: 5000X5000X3 & Mask: 5000X5000X1) 
 
 
+## Sample images:
 
-## Citation
-
-
-Under review: Citation appear here
+Images appear here
