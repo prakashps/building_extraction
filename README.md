@@ -3,18 +3,18 @@ A deep learning pipeline for extraction building footprints from high resolution
 
 Dependencies
 
-  sklearn
-  pandas
-  numpy
-  matplotlib
-  rasterio
-  itertools
-  cv2
-  os
-  time
-  sys
-  libtiff
-  keras
+  sklearn,
+  pandas,
+  numpy,
+  matplotlib,
+  rasterio,
+  itertools,
+  cv2,
+  os,
+  time,
+  sys,
+  libtiff,
+  keras,
   tensorflow
 
 
