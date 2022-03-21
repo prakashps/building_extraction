@@ -3,7 +3,7 @@ A complete deep learning pipeline for deriving building footprints from high-res
 
 ## Citation
 
-Prakash P.S., & Aithal, B. H. (2022). Building footprint extraction from very high-resolution satellite images using deep learning. Journal of Spatial Science, 1-17.
+Prakash P.S., & Aithal, B. H. (2022). Building footprint extraction from very high-resolution satellite images using deep learning. Journal of Spatial Science, 1-17. https://doi.org/10.1080/14498596.2022.2037473
 
 
 ## Dependencies
@@ -31,7 +31,3 @@ Prakash P.S., & Aithal, B. H. (2022). Building footprint extraction from very hi
 - Both for training and testing images and masks should be rectangular without any zero or null or no data values
 - Please use "image.tif" and "mask.tif" should be of same dimension. (Ex: Image: 5000X5000X3 & Mask: 5000X5000X1) 
 
-
-## Sample images:
-
-Images appear here
