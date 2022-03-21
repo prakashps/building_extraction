@@ -3,8 +3,7 @@ A complete deep learning pipeline for deriving building footprints from high-res
 
 ## Citation
 
-
-Under review: Citation appear here
+Prakash P.S., & Aithal, B. H. (2022). Building footprint extraction from very high-resolution satellite images using deep learning. Journal of Spatial Science, 1-17.
 
 
 ## Dependencies
